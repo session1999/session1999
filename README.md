@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=session1999" alt="session1999" /></a> </p>
 
-- 🔭 I prefer to work on **Java SpringBoot Application**
+- 🔭 I prefer to work on **Java SpringBoot Application and Mobile Application**
 
-- 🌱 I’m currently learning **Devops**
+- 👯 I’m looking to collaborate on **Java and Flutter Mobile Application**
 
-- 👯 I’m looking to collaborate on **Java and SpringBoot**
-
-- 💬 Ask me about **Java and SpringBoot**
+- 💬 Ask me about **Java and Flutter Mobile Applications**
 
 - ⚡ Fun fact **the Joker**
 
